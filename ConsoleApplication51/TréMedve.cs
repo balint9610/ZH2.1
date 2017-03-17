@@ -17,10 +17,7 @@ namespace ConsoleApplication51
             
         }
 
-        public void Ordit()
-        {
-
-        }
+        
         
 
     }
